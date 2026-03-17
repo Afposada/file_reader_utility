@@ -1,0 +1,11 @@
+# Ignorar binarios de Java
+*.class
+bin/
+
+# Ignorar archivos de Eclipse
+.metadata/
+.bin/
+.settings/
+.loadpath
+.project
+.classpath
